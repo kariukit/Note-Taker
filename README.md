@@ -50,4 +50,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![11-express-homework-demo-02](https://user-images.githubusercontent.com/108309963/201687079-aa4f43a2-7959-479e-87df-98ed5be68feb.png)
 
 
-# 4) You can view my final project on Heroku using the link below
+# 4) You can view my final project on Heroku using the link below:
+
+https://teresa-note-taker.herokuapp.com/
+
+# 5) The walkthrough video below demonstates how the app is working after being delpoyed on Heroku:
+
+![Note Taker Demo Video](https://user-images.githubusercontent.com/108309963/201735067-ea8350c2-88e8-40cb-aa27-5cef7b7ab38e.gif)
